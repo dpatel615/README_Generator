@@ -30,4 +30,4 @@
   npm test
 
   ## Questions
-  If you have any questions about this projects, please contact me directly at drustipatel1234@gmail.com. You can view more of my projects at 
+  If you have any questions about this projects, please contact me directly at drustipatel1234@gmail.com. You can view more of my projects at https://github.com/dpatel615/README_Generator
