@@ -70,7 +70,7 @@ const question = () => {
         type: 'list',
         name: 'license',
         message: 'what kind of license should you project have?',
-        choice: ['MIT', 'GNU'],
+        choices: ['MIT', 'GNU'],
         default:["MIT"],
         validate: nameInput => {
             if(nameInput){
