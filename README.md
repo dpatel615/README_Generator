@@ -18,6 +18,7 @@
 
   ## Usage 
   Use inquirer from your command line to answer questions about your project.
+    <img src="utils/README.mov"><br>
 
 
   ## License 
